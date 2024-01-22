@@ -2,8 +2,8 @@
 // Set the curses library inside the namespace Curses
 // 
 
-#ifndef RUOEG_CURSES_CURSES_H_
-#define RUOEG_CURSES_CURSES_H_
+#ifndef XANT_CURSES_CURSES_H_
+#define XANT_CURSES_CURSES_H_
 
 #include "../../include/curses.h"
 
@@ -119,4 +119,4 @@ public:
 	static int werase(WINDOW *win);
 };
 
-#endif // RUOEG_CURSES_CURSES_H_
+#endif // XANT_CURSES_CURSES_H_
